@@ -11,3 +11,6 @@ pip3 install Pillow
 |Veg        🌳| Stable|
 |Rainfall   🌧| Stable|
 |No Veg     🏜| Stable|
+
+## Examples
+![Vegetation Processor Result](/example_results/veg.png)
