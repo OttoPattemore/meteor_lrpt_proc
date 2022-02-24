@@ -18,11 +18,11 @@ python3 meteor_lrpt_proc.py <RGB221_image> <Thermal_image> <Output_Directory>
 
 ## Examples
 
-### Vegetation
+### Vegetation 🌳
 ![Vegetation Processor Result](/example_results/veg.png)
 
-### No Vegetation
+### No Vegetation 🏜
 ![No Vegetation Processor Result](/example_results/noveg.png)
 
-### Rainfall
+### Rainfall 🌧
 ![Rainfall Map](/example_results/rainfall.png)
