@@ -4,6 +4,8 @@ Process images from Meteor M2 LRPT.
 ```bash
 # Install dependencies
 pip3 install Pillow
+
+# Run the processor
 python3 meteor_lrpt_proc.py <RGB221_image> <Thermal_image> <Output_Directory>
 ```
 
