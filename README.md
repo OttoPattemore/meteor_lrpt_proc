@@ -13,4 +13,12 @@ pip3 install Pillow
 |No Veg     🏜| Stable|
 
 ## Examples
+
+### Vegetation
 ![Vegetation Processor Result](/example_results/veg.png)
+
+### No Vegetation
+![No Vegetation Processor Result](/example_results/no_veg.png)
+
+### Rainfall
+![Rainfall Map](/example_results/rainfall.png)
