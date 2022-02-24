@@ -18,7 +18,7 @@ pip3 install Pillow
 ![Vegetation Processor Result](/example_results/veg.png)
 
 ### No Vegetation
-![No Vegetation Processor Result](/example_results/no_veg.png)
+![No Vegetation Processor Result](/example_results/noveg.png)
 
 ### Rainfall
 ![Rainfall Map](/example_results/rainfall.png)
