@@ -1,8 +1,8 @@
-#!/usr/bin/python3
 from PIL import Image
 import sys
 import os
 
+# Jet color scheme adapted from https://stackoverflow.com/questions/7706339/grayscale-to-red-green-blue-matlab-jet-color-scale
 def interpolate( val, y0, x0, y1, x1 ):
   return (val-x0)*(y1-y0)/(x1-x0) + y0
 
