@@ -1,5 +1,5 @@
 # Meteor LRPT Proc
-Process images from Meteor M2 LRPT.
+Process images from Meteor M2's LRPT downlink.
 ## Setup
 ```bash
 # Install dependencies
